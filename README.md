@@ -169,7 +169,7 @@ This tool is intended for **educational, research and personal use** only.
 
 <div align="center">
 
-**[⭐ Star on GitHub](https://github.com/tc4dy/SentinelProxyV2)**
+**[⭐ GitHub](https://github.com/tc4dy/SentinelProxyV2)**
 
 *Created by [@tc4dy](https://github.com/tc4dy) · 2026 · Free to use · Unauthorized selling prohibited*
 
